@@ -7,10 +7,10 @@ Our theme is **Mini Games & Fun Functions**. Each contributor implemented one sm
 ## 👥 Team Members & Contributions
 - **Admin/Integrator (Name)**: Setup repo, managed merges, wrote final driver.
 - **Contributor 1 Ayush Pareek: Implemented `random_quote()` and its test.
-- **Contributor 2 (Name)**: Implemented `roll_dice()` and its test.
+- **Contributor 2 Bharat: Implemented `roll_dice()` and its test.
 - **Contributor 3 Dhrithi K: Implemented `coin_toss()` and its test.
 - **Contributor 4 Gaikwad Aman Anand**: Implemented `guess_number()` and its test.
-- **Contributor 5 (Name)**: Implemented `rps()` (Rock–Paper–Scissors) and its test.
+- **Contributor 5 AbhiGnanesh: Implemented `rps()` (Rock–Paper–Scissors) and its test.
 
 
 ## 🛠️ How to Run
