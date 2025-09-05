@@ -5,6 +5,12 @@ def roll_dice():
     """
     return random.randint(1, 6)
 
+def coin_toss():
+    """
+    Simulates a coin toss and returns 'Heads' or 'Tails'.
+    Author: Dhrithi K
+    """
+    return random.choice(["Heads", "Tails"])
 
 def guess_number(secret, guess):
     """
