@@ -36,7 +36,7 @@ def rps(player, computer):
     """
     Rock–Paper–Scissors game.
     Returns outcome based on rules.
-    Author: Contributor 4
+    Author: Gnanesh A R
     """
     outcomes = {
         ("rock", "scissors"): "Player wins!",
