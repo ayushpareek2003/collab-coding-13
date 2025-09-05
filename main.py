@@ -2,7 +2,7 @@ import random
 def roll_dice():
     """
     Simulates rolling a dice and returns a number between 1–6.
-    Author: Bharath (Contributor 1)
+    Author: Bharath L (Contributor 1)
     """
     return random.randint(1, 6)
 
