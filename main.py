@@ -1,3 +1,15 @@
+def guess_number(secret, guess):
+    """
+    Compares guess with secret number and returns result string.
+    Author: Gaikwad Aman Anand
+    """
+    if guess == secret:
+        return "Correct!"
+    elif guess < secret:
+        return "Too low!"
+    else:
+        return "Too high!"
+
 def random_quote():
     """
     Returns a random motivational or fun quote.
