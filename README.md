@@ -9,7 +9,7 @@ Our theme is **Mini Games & Fun Functions**. Each contributor implemented one sm
 - **Contributor 1 Ayush Pareek: Implemented `random_quote()` and its test.
 - **Contributor 1 (Name)**: Implemented `roll_dice()` and its test.
 - **Contributor 2 (Name)**: Implemented `coin_toss()` and its test.
-- **Contributor 3 (Name)**: Implemented `guess_number()` and its test.
+- **Contributor 3 Gaikwad Aman Anand**: Implemented `guess_number()` and its test.
 - **Contributor 4 (Name)**: Implemented `rps()` (Rock–Paper–Scissors) and its test.
 
 
