@@ -5,7 +5,7 @@ This project simulates a real-world collaborative coding environment using GitHu
 Our theme is **Mini Games & Fun Functions**. Each contributor implemented one small game function, and the Admin integrated them into a driver program.
 
 ## 👥 Team Members & Contributions
-- **Admin/Integrator (Name)**: Setup repo, managed merges, wrote final driver.
+- **Admin/Integrator Ayush Pareek**: Setup repo, managed merges, wrote final driver.
 - **Contributor 1 Ayush Pareek: Implemented `random_quote()` and its test.
 - **Contributor 2 Bharat: Implemented `roll_dice()` and its test.
 - **Contributor 3 Dhrithi K: Implemented `coin_toss()` and its test.
