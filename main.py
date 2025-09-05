@@ -1,3 +1,4 @@
+import random
 def roll_dice():
     """
     Simulates rolling a dice and returns a number between 1–6.
