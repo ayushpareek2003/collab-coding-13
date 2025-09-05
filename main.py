@@ -32,6 +32,25 @@ def random_quote():
     ]
     return random.choice(quotes)
 
+def rps(player, computer):
+    """
+    Rock–Paper–Scissors game.
+    Returns outcome based on rules.
+    Author: Contributor 4
+    """
+    outcomes = {
+        ("rock", "scissors"): "Player wins!",
+        ("scissors", "paper"): "Player wins!",
+        ("paper", "rock"): "Player wins!",
+        ("scissors", "rock"): "Computer wins!",
+        ("paper", "scissors"): "Computer wins!",
+        ("rock", "paper"): "Computer wins!",
+    }
+    if player == computer:
+        return "It's a tie!"
+    return outcomes.get((player, computer), "Invalid input")
+
+
 # ----------------------------
 # Admin Driver
 # ----------------------------
